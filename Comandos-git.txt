@@ -1,0 +1,31 @@
+    1  echo "# f-algoritmos-ej-17" >> README.md
+    2  git init
+    3  git add README.md
+    4  git commit -m "first commit"
+    5  git config --global user.email "jobenromsal@gmail.com"
+    6  git config --global user.name "jbromero"
+    7  git remote add origin https://github.com/jbromero/f-algoritmos-ej-17.git
+    8  git push -u origin master
+    9  echo "# f-algoritmos-ej-17" >> README.md
+   10  git init
+   11  git add README.md
+   12  git commit -m "first commit"
+   13  git remote add origin https://github.com/jbromero/f-algoritmos-ej-17.git
+   14  git push -u origin master
+   15  git status
+   16  git status
+   17  git add principal.txt
+   18  git commit -m -a "ejercicio de guardar archivo en el repositorio mediante el ordenador"
+   19  git push
+   20  git commit -m -a"ejercicio de guardar archivo en el repositorio mediante el ordenador"
+   21  git push
+   22  git status
+   23  git status
+   24  git commit -m -a"subir cambios al archivo"
+   25  git push
+   26  git status
+   27  git commit -m -a"subir cambios al archivo"
+   28  git commit -a -m"subir cambios al archivo"
+   29  git push
+   30  git status
+   31  history
