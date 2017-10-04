@@ -5,3 +5,4 @@ Estos ciclos nos permiten repetir procesos dependiendo de la cantidad de persona
 Existen tres ciclos los cuales son muy empleados y prácticos.
 
 “FOR” ; “WHILE” y el “DO WHILE”
+Fin del concepto
